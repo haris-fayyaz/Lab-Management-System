@@ -1,0 +1,9 @@
+# Build outputs
+*.o
+*.exe
+*.out
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
